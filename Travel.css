@@ -1147,6 +1147,16 @@ a{
         text-align:center;
     }
 
+    .pop{
+        top:50px;
+    }
+    .pop>center>span{
+        font-size:20px;
+    }
+    .pop>div>button{
+        width:80%;
+        margin-left:10px;
+    }
 
 }
 
