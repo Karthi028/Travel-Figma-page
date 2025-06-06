@@ -27,7 +27,7 @@ margin-left:4px;
     
 }
 
- a{
+a{
     text-decoration: none;
     color:black;
 }
@@ -1113,7 +1113,42 @@ margin-left:4px;
     font-size: 10px;
     color:#666666;
 }
+@media (max-width:465px){
+    .habtb{
+        display: none;
+    }
 
+    .signup{
+        padding:10px 0;
+    }
+    .trabook{
+        padding-top:20px;
+    }
+    .table{
+        padding-left:14%;
+        padding-right:14%;
+    }
+    .exjourney>button{
+        margin-bottom:20px;
+
+    }
+   
+    .place{
+        width:80%;
+    }
+    .card{
+        width:150%;
+    }
+    .peoplesay{
+        justify-content: center;
+        align-items: center;
+    }
+    .peoplesay>p{
+        text-align:center;
+    }
+
+
+}
 
 
 
